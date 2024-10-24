@@ -39,7 +39,7 @@
         </div>
       </div>
     </div>
-    <div class="basis-1-2">
+    <div class="basis-1/2">
       <h2 class="text-2xl text font-bold">All Post</h2>
       <div class="grid grid-rows-5 mt-8">
         <div class="post-1 p-8 pb-6">
