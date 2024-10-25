@@ -1,7 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@400;700&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url("https://fonts.googleapis.com/css2?family=Sen:wght@400;700&display=swap");
 /* Menggunakan font Sen secara global */
 body {
   @apply font-sen;
