@@ -6,6 +6,7 @@
         <component :is="Component" />
       </transition>
     </router-view>
+    <FooterView />
   </div>
 </template>
 
@@ -13,6 +14,7 @@
 import NavbarView from "@/components/NavbarView.vue";
 import { RouterLink, RouterView } from "vue-router";
 import HelloWorld from "./components/HelloWorld.vue";
+import FooterView from "./components/FooterView.vue";
 </script>
 
 <style>
