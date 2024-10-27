@@ -13,20 +13,18 @@
     </div>
 
     <!-- Subscription Box -->
-    <div class="flex flex-row bg-gray-800 py-20 px-16 mx-16">
+    <div class="flex flex-row bg-gray-800 py-20 px-16">
       <div class="w-1/2">
         <h3 class="text-2xl font-semibold text-white">
           Subscribe to our newsletter to get latest updates and news
         </h3>
       </div>
       <div class="w-1/2 flex justify-between">
-        <div class="input p-3.5">
-          <input
-            type="email"
-            placeholder="Enter Your Email"
-            class="bg-gray-700 text-gray-300 placeholder-gray-500 focus:outline-none text-xl"
-          />
-        </div>
+        <input
+          type="email"
+          placeholder="Enter Your Email"
+          class="bg-gray-800 text-gray-300 placeholder-gray-500 text-xl px-6 border"
+        />
         <div class="subscribe">
           <router-link
             :to="{ name: 'blog' }"
@@ -41,7 +39,7 @@
 
     <!-- Footer Info and Social Links -->
     <div
-      class="flex items-center justify-between px-10 pt-10 border-t border-gray-700"
+      class="flex items-center justify-between -10 pt-10 border-t border-gray-700 mt-6"
     >
       <div class="text-gray-500">
         <p>Finstreet 118 2561 Fintown</p>

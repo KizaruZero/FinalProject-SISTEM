@@ -6,7 +6,9 @@
         <component :is="Component" />
       </transition>
     </router-view>
-    <FooterView />
+    <div class="mt-32">
+      <FooterView />
+    </div>
   </div>
 </template>
 

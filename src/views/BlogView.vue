@@ -1,3 +1,23 @@
 <template>
-  <h1>Blog View</h1>
+  <div class="content-section mx-20 text-black">
+    <div class="">
+      <HeaderSection />
+    </div>
+    <div class="mt-16 bg-black">
+      <img
+        src="@/assets/hero-blog.png"
+        alt=""
+        width="100%
+      "
+      />
+    </div>
+    <div class="mt-16">
+      <BodyBlog />
+    </div>
+  </div>
 </template>
+
+<script setup>
+import HeaderSection from "@/components/HeaderSection.vue";
+import BodyBlog from "@/components/BodyBlog.vue";
+</script>
