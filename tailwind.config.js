@@ -5,7 +5,10 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sen: ["Sen", "sans-serif"], // Menambahkan font Sen
+        sen: ["Sen", "sans-serif"], // Adding Sen font
+      },
+      letterSpacing: {
+        tighter: "-0.125rem", // Equivalent to -2px
       },
     },
   },

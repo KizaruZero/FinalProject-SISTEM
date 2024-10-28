@@ -6,3 +6,10 @@
 body {
   @apply font-sen;
 }
+/* @layer base {
+  h1,
+  h2,
+  h3 {
+    @apply tracking-tighter;
+  }
+} */
