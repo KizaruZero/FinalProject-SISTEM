@@ -1,7 +1,7 @@
 <template>
   <div class="logo flex flex-row items-center justify-between px-3.5">
     <div class="text">
-      <p class="text-sm text-sm">We are</p>
+      <p class="text-sm">We are</p>
       <h1 class="text-2xl font-bold">Featured in</h1>
     </div>
     <div class="logo-1">

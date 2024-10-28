@@ -6,14 +6,14 @@
     >
       <div class="">
         <p class="text-sm font-medium text-gray-700">Working hours</p>
-        <div class="border-b mt-4 border-slate-400"></div>
+        <div class="divider divide-y mt-4 border-slate-400"></div>
         <p class="text-lg font-semibold mt-4">Monday To Friday</p>
         <p class="text-lg font-semibold">9:00 AM to 8:00 PM</p>
         <p class="text-sm text-gray-600">Our Support Team is available 24/7</p>
       </div>
       <div>
         <p class="text-sm font-medium text-gray-700">Contact Us</p>
-        <div class="border-b mt-4 border-slate-400"></div>
+        <div class="divider divide-y mt-4 border-slate-400"></div>
         <p class="text-lg font-semibold mt-4">020 7993 2905</p>
         <p class="text-sm text-gray-600">hello@finsweet.com</p>
       </div>
