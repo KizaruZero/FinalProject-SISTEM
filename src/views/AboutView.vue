@@ -99,14 +99,14 @@
         <div class="flex gap-5 max-md:flex-col">
           <div class="flex flex-col w-[43%] max-md:ml-0 max-md:w-full">
             <div
-              class="flex flex-col self-stretch my-auto font-bold text-gray-800 max-md:mt-10 max-md:max-w-full"
+              class="flex flex-col self-stretch my-auto text-gray-800 max-md:mt-10 max-md:max-w-full"
             >
               <h2
-                class="self-start text-4xl tracking-tighter leading-none text-gray-800"
+                class="self-start text-4xl tracking-tighter font-bold leading-none text-gray-800"
               >
                 Our team of creatives
               </h2>
-              <p class="mt-4 text-2xl leading-8 max-md:max-w-full">
+              <p class="mt-4 text-2xl leading-8 max-md:max-w-full font-bold">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt.
               </p>
@@ -144,14 +144,16 @@
           </div>
           <div class="flex flex-col ml-5 w-[45%] max-md:ml-0 max-md:w-full">
             <div
-              class="flex flex-col self-stretch my-auto font-bold text-gray-800 max-md:mt-10 max-md:max-w-full"
+              class="flex flex-col self-stretch my-auto text-gray-800 max-md:mt-10 max-md:max-w-full"
             >
               <h2
-                class="self-start text-4xl tracking-tighter leading-none text-gray-800"
+                class="self-start text-4xl font-bold tracking-tighter leading-none text-gray-800"
               >
                 Why we started this Blog
               </h2>
-              <p class="mt-4 text-2xl leading-8 max-md:mr-2 max-md:max-w-full">
+              <p
+                class="mt-4 text-2xl leading-8 max-md:mr-2 max-md:max-w-full font-bold"
+              >
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt.
               </p>

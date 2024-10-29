@@ -25,7 +25,7 @@
         </p>
       </div>
     </div>
-    <div class="card card-side rounded-none">
+    <div class="card card-side rounded-none mt-16">
       <div class="img w-full">
         <img src="@/assets/another-image.png" alt="Movie" class="w-full" />
       </div>
