@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="bg-gray-800 p-4 flex justify-between items-center fixed w-full z-10"
+    class="bg-gray-800 p-4 flex justify-between items-center fixed w-full z-20"
   >
     <router-link
       to="/"

@@ -8,7 +8,7 @@
         <a href="#" class="hover:text-white">Blog</a>
         <a href="#" class="hover:text-white">About us</a>
         <a href="#" class="hover:text-white">Contact us</a>
-        <a href="#" class="hover:text-white">Privacy Policy</a>
+        <a href="/privacy" class="hover:text-white">Privacy Policy</a>
       </nav>
     </div>
 
