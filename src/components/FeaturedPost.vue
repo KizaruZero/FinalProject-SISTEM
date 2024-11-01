@@ -6,7 +6,7 @@
         <div class="rounded-none p-0">
           <figure>
             <img
-              src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+              src="@/assets/featured.png"
               alt="Shoes"
               width="669"
               height="352"
@@ -73,16 +73,6 @@
           </div>
         </div>
         <div class="post-4 p-8 pb-6">
-          <div class="card-body p-0 m-0">
-            <p class="text-sm">
-              By <span class="text-yellow-400">John Doe</span> | May 23, 2022
-            </p>
-            <h3 class="card-title text-2xl">
-              8 Figma design systems that you can download for free today.
-            </h3>
-          </div>
-        </div>
-        <div class="post-5 p-8 pb-6">
           <div class="card-body p-0 m-0">
             <p class="text-sm">
               By <span class="text-yellow-400">John Doe</span> | May 23, 2022

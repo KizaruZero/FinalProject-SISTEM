@@ -31,7 +31,7 @@
         />
         <div class="flex relative flex-col max-w-full w-[862px]">
           <div class="px-12 py-8 max-w-full bg-blue-600 w-[630px] max-md:px-5">
-            <div class="flex gap-5 max-md:flex-col">
+            <div class="flex gap-5 max-md:flex-col mt-4">
               <div class="flex flex-col w-[33%] max-md:ml-0 max-md:w-full">
                 <div class="flex flex-col grow text-white max-md:mt-10">
                   <p
@@ -64,7 +64,7 @@
               </div>
             </div>
           </div>
-          <div class="flex flex-wrap gap-px"></div>
+          <div class="flex flex-wrap gap-px h-6 bg-[#FFD050]"></div>
         </div>
       </section>
       <div class="pt-32 px-[108px] pb-16 flex gap-x-8 bg-[#F4F0F8]">

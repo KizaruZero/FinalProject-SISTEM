@@ -18,12 +18,12 @@
         {{ article.title }}
       </h1>
 
-      <p class="mt-6 text-gray-400">
+      <p class="mt-6 text-white">
         By <span class="text-blue-400">{{ article.author }}</span> |
         {{ formatDate(article.date) }}
       </p>
 
-      <p class="mt-4 text-gray-400">
+      <p class="mt-4 text-white">
         {{ article.excerpt }}
       </p>
 

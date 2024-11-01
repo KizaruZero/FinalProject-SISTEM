@@ -4,10 +4,10 @@
     <div class="flex items-center justify-between mb-14">
       <h2 class="text-white text-xl font-bold">Kizaru Kaede</h2>
       <nav class="flex space-x-6 text-base">
-        <a href="#" class="hover:text-white">Home</a>
-        <a href="#" class="hover:text-white">Blog</a>
-        <a href="#" class="hover:text-white">About us</a>
-        <a href="#" class="hover:text-white">Contact us</a>
+        <a href="/." class="hover:text-white">Home</a>
+        <a href="/blog" class="hover:text-white">Blog</a>
+        <a href="/about" class="hover:text-white">About us</a>
+        <a href="/contact" class="hover:text-white">Contact us</a>
         <a href="/privacy" class="hover:text-white">Privacy Policy</a>
       </nav>
     </div>

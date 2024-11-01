@@ -4,20 +4,24 @@
       <h2 class="text-4xl text-center font-bold">List of Authors</h2>
     </div>
     <div class="choose-category grid grid-cols-4 gap-x-8 mt-12">
-      <div class="card bg-amber-100 py-10 px-7 h-80 rounded-none">
+      <div
+        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA]"
+      >
         <div class="avatar mx-auto">
-          <div
-            class="ring-primary ring-offset-base-100 w-24 rounded-full ring ring-offset-2"
-          >
-            <img
-              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
-            />
+          <div class="w-full rounded-full">
+            <img src="@/assets/floyd.png" width="128px" height="128px" />
           </div>
         </div>
-        <div class="card-body mt-2 items-center text-center">
+        <div
+          class="card-body flex flex-col items-center justify-center items-center text-center"
+        >
           <router-link :to="{ name: 'author' }">
-            <h2 class="card-title m-0 p-0 text-3xl">Floyd Miles</h2>
-            <p class="text-sm m-0 p-0">Content Writer @Company</p>
+            <div class="text-center items-center">
+              <h2 class="card-title m-0 p-0 text-[28px] text-center">
+                Floyd Miles
+              </h2>
+              <p class="text-sm m-0 p-0 mt-2">Content Writer @Company</p>
+            </div>
             <div
               class="social-icons flex flex-row gap-4 items-center mt-5 justify-center"
             >
@@ -111,20 +115,24 @@
           </router-link>
         </div>
       </div>
-      <div class="card bg-amber-100 py-10 px-7 h-80 rounded-none">
+      <div
+        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA]"
+      >
         <div class="avatar mx-auto">
-          <div
-            class="ring-primary ring-offset-base-100 w-24 rounded-full ring ring-offset-2"
-          >
-            <img
-              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
-            />
+          <div class="w-full rounded-full">
+            <img src="@/assets/diana.png" width="128px" height="128px" />
           </div>
         </div>
-        <div class="card-body mt-2 items-center text-center">
+        <div
+          class="card-body flex flex-col items-center justify-center items-center text-center"
+        >
           <router-link :to="{ name: 'author' }">
-            <h2 class="card-title m-0 p-0 text-3xl">Floyd Miles</h2>
-            <p class="text-sm m-0 p-0">Content Writer @Company</p>
+            <div class="text-center items-center">
+              <h2 class="card-title m-0 p-0 text-[28px] text-center">
+                Dianne Russellss
+              </h2>
+              <p class="text-sm m-0 p-0 mt-2">Content Writer @Company</p>
+            </div>
             <div
               class="social-icons flex flex-row gap-4 items-center mt-5 justify-center"
             >
@@ -218,20 +226,24 @@
           </router-link>
         </div>
       </div>
-      <div class="card bg-amber-100 py-10 px-7 h-80 rounded-none">
+      <div
+        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA]"
+      >
         <div class="avatar mx-auto">
-          <div
-            class="ring-primary ring-offset-base-100 w-24 rounded-full ring ring-offset-2"
-          >
-            <img
-              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
-            />
+          <div class="w-full rounded-full">
+            <img src="@/assets/jenny.png" width="128px" height="128px" />
           </div>
         </div>
-        <div class="card-body mt-2 items-center text-center">
+        <div
+          class="card-body flex flex-col items-center justify-center items-center text-center"
+        >
           <router-link :to="{ name: 'author' }">
-            <h2 class="card-title m-0 p-0 text-3xl">Floyd Miles</h2>
-            <p class="text-sm m-0 p-0">Content Writer @Company</p>
+            <div class="text-center items-center">
+              <h2 class="card-title m-0 p-0 text-[28px] text-center">
+                Jenny Wilson
+              </h2>
+              <p class="text-sm m-0 p-0 mt-2">Content Writer @Company</p>
+            </div>
             <div
               class="social-icons flex flex-row gap-4 items-center mt-5 justify-center"
             >
@@ -325,20 +337,24 @@
           </router-link>
         </div>
       </div>
-      <div class="card bg-amber-100 py-10 px-7 h-80 rounded-none">
+      <div
+        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA]"
+      >
         <div class="avatar mx-auto">
-          <div
-            class="ring-primary ring-offset-base-100 w-24 rounded-full ring ring-offset-2"
-          >
-            <img
-              src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
-            />
+          <div class="w-full rounded-full">
+            <img src="@/assets/leslie.png" width="128px" height="128px" />
           </div>
         </div>
-        <div class="card-body mt-2 items-center text-center">
+        <div
+          class="card-body flex flex-col items-center justify-center items-center text-center"
+        >
           <router-link :to="{ name: 'author' }">
-            <h2 class="card-title m-0 p-0 text-3xl">Floyd Miles</h2>
-            <p class="text-sm m-0 p-0">Content Writer @Company</p>
+            <div class="text-center items-center">
+              <h2 class="card-title m-0 p-0 text-[28px] text-center">
+                Leslie Alexander
+              </h2>
+              <p class="text-sm m-0 p-0 mt-2">Content Writer @Company</p>
+            </div>
             <div
               class="social-icons flex flex-row gap-4 items-center mt-5 justify-center"
             >

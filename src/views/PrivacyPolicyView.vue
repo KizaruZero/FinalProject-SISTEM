@@ -1,6 +1,8 @@
 <template>
   <div class="div">
-    <div class="judul text-center pt-52 text-black bg-[#F4F0F8] pb-20">
+    <div
+      class="judul text-center pt-72 text-black bg-[#F4F0F8] pb-20 min-h-screen"
+    >
       <h1 class="text-5xl font-bold">Privacy Policy</h1>
       <p class="text-base mt-1">Last Updated on 27th January 2022</p>
     </div>

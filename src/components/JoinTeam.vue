@@ -9,7 +9,7 @@
     </p>
     <div class="">
       <router-link
-        :to="{ name: 'blog' }"
+        :to="{ name: 'contact' }"
         class="mt-8 bg-blue-600 hover:bg-blue-700 text-white px-12 py-4 rounded-sm transition duration-300 inline-flex items-center gap-2 text-lg font-bold"
       >
         Join Now
