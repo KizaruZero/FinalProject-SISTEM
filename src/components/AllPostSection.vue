@@ -83,7 +83,7 @@
           </h3>
         </router-link>
         <p class="description text-base mt-4">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do0
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Non
           blandit massa enim nec. Lorem ipsum dolor sit amet, consectetur
           adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
