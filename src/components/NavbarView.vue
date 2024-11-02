@@ -4,9 +4,9 @@
   >
     <router-link
       to="/"
-      class="text-white text-2xl font-bold hover:text-gray-300 transition duration-300 ml-16"
+      class="text-white text-2xl flex items-center pb-2 font-bold hover:text-gray-300 transition duration-300 ml-16"
     >
-      {{ brandName }} <span class="text-green-500">*</span>
+      <img src="@/assets/Brand.png" alt="" />
     </router-link>
 
     <div class="space-x-4">
@@ -14,8 +14,8 @@
         v-for="item in navigationItems"
         :key="item.path"
         :to="item.path"
-        class="text-white hover:text-gray-300 transition duration-300"
-        active-class="text-blue-400"
+        class="text-white text-base hover:text-gray-300 transition duration-300"
+        active-class="text-blue-300"
       >
         {{ item.name }}
       </router-link>

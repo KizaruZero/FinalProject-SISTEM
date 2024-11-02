@@ -5,7 +5,7 @@
     </div>
     <div class="choose-category grid grid-cols-4 gap-x-8 mt-12">
       <div
-        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA]"
+        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA] hover:scale-105 transition-transform duration-300"
       >
         <div class="avatar mx-auto">
           <div class="w-full rounded-full">
@@ -116,7 +116,7 @@
         </div>
       </div>
       <div
-        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA]"
+        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA] hover:scale-105 transition-transform duration-300"
       >
         <div class="avatar mx-auto">
           <div class="w-full rounded-full">
@@ -227,7 +227,7 @@
         </div>
       </div>
       <div
-        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA]"
+        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA] hover:scale-105 transition-transform duration-300"
       >
         <div class="avatar mx-auto">
           <div class="w-full rounded-full">
@@ -338,7 +338,7 @@
         </div>
       </div>
       <div
-        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA]"
+        class="card bg-gray-200/25 py-10 px-0 w-[296px] h-80 rounded-none hover:bg-[#FBF6EA] hover:scale-105 transition-transform duration-300"
       >
         <div class="avatar mx-auto">
           <div class="w-full rounded-full">

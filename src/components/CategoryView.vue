@@ -6,7 +6,7 @@
     <div class="choose-category grid grid-cols-4 gap-x-8 mt-12">
       <router-link :to="{ name: 'category' }">
         <div
-          class="category-card outline hover:bg-blue-600 hover:text-slate-100 outline-slate-200 outline-1 p-8"
+          class="category-card hover:scale-105 transition-transform duration-300 outline hover:bg-blue-600 hover:text-slate-100 outline-slate-200 outline-1 p-8"
         >
           <div class="rounded-xl bg-yellow-100 w-12">
             <svg
@@ -36,9 +36,9 @@
 
       <router-link :to="{ name: 'category' }">
         <div
-          class="category-card outline hover:bg-blue-600 hover:text-slate-100 outline-slate-200 outline-1 p-8"
+          class="category-card hover:scale-105 transition-transform duration-300 outline hover:bg-blue-600 hover:text-slate-100 outline-slate-200 outline-1 p-8"
         >
-          <div class="p-3 rounded-xl bg-slate-100 w-12">
+          <div class="p-3 rounded-xl bg-yellow-100 w-12">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="23"
@@ -95,7 +95,7 @@
       </router-link>
       <router-link :to="{ name: 'category' }">
         <div
-          class="category-card hover:bg-blue-600 hover:text-slate-100 outline outline-slate-200 outline-1 p-8"
+          class="category-card hover:scale-105 transition-transform duration-300 hover:bg-blue-600 hover:text-slate-100 outline outline-slate-200 outline-1 p-8"
         >
           <div class="p-3 rounded-xl bg-yellow-100 w-12">
             <svg
@@ -138,7 +138,7 @@
       </router-link>
       <router-link :to="{ name: 'category' }">
         <div
-          class="category-card hover:bg-blue-600 hover:text-slate-100 outline outline-slate-200 outline-1 p-8"
+          class="category-card hover:scale-105 transition-transform duration-300 hover:bg-blue-600 hover:text-slate-100 outline outline-slate-200 outline-1 p-8"
         >
           <div class="p-3 rounded-xl bg-yellow-100 w-12">
             <svg
